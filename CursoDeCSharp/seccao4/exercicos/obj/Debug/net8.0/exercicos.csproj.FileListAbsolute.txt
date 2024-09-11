@@ -1,0 +1,14 @@
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\exercicos\bin\Debug\net8.0\exercicos.exe
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\exercicos\bin\Debug\net8.0\exercicos.deps.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\exercicos\bin\Debug\net8.0\exercicos.runtimeconfig.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\exercicos\bin\Debug\net8.0\exercicos.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\exercicos\bin\Debug\net8.0\exercicos.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\exercicos\obj\Debug\net8.0\exercicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\exercicos\obj\Debug\net8.0\exercicos.AssemblyInfoInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\exercicos\obj\Debug\net8.0\exercicos.AssemblyInfo.cs
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\exercicos\obj\Debug\net8.0\exercicos.csproj.CoreCompileInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\exercicos\obj\Debug\net8.0\exercicos.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\exercicos\obj\Debug\net8.0\refint\exercicos.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\exercicos\obj\Debug\net8.0\exercicos.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\exercicos\obj\Debug\net8.0\exercicos.genruntimeconfig.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\exercicos\obj\Debug\net8.0\ref\exercicos.dll

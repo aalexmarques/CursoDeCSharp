@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aabfc\\OneDrive\\Desktop\\Udemy\\cursoDeCSharp\\projetos\\seccao4\\primeriosExerciciosDeClasses\\metodosEmClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD78395-7D18-4233-9AF3-C76AA2731548}|metodosEmClasses.csproj|c:\\users\\aabfc\\onedrive\\desktop\\udemy\\cursodecsharp\\projetos\\seccao4\\primeriosexerciciosdeclasses\\metodosemclasses\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD78395-7D18-4233-9AF3-C76AA2731548}|metodosEmClasses.csproj|solutionrelative:triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD78395-7D18-4233-9AF3-C76AA2731548}|metodosEmClasses.csproj|c:\\users\\aabfc\\onedrive\\desktop\\udemy\\cursodecsharp\\projetos\\seccao4\\primeriosexerciciosdeclasses\\metodosemclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD78395-7D18-4233-9AF3-C76AA2731548}|metodosEmClasses.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\aabfc\\OneDrive\\Desktop\\Udemy\\cursoDeCSharp\\projetos\\seccao4\\primeriosExerciciosDeClasses\\metodosEmClasses\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Triangulo.cs",
+              "ToolTip": "C:\\Users\\aabfc\\OneDrive\\Desktop\\Udemy\\cursoDeCSharp\\projetos\\seccao4\\primeriosExerciciosDeClasses\\metodosEmClasses\\Triangulo.cs",
+              "RelativeToolTip": "Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:23:46.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aabfc\\OneDrive\\Desktop\\Udemy\\cursoDeCSharp\\projetos\\seccao4\\primeriosExerciciosDeClasses\\metodosEmClasses\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aabfc\\OneDrive\\Desktop\\Udemy\\cursoDeCSharp\\projetos\\seccao4\\primeriosExerciciosDeClasses\\metodosEmClasses\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBQAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:22:37.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

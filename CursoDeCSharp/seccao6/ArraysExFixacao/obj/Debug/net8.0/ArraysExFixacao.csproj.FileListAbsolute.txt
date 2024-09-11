@@ -1,0 +1,14 @@
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ArraysExFixacao\obj\Debug\net8.0\ArraysExFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ArraysExFixacao\obj\Debug\net8.0\ArraysExFixacao.AssemblyInfoInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ArraysExFixacao\obj\Debug\net8.0\ArraysExFixacao.AssemblyInfo.cs
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ArraysExFixacao\obj\Debug\net8.0\ArraysExFixacao.csproj.CoreCompileInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ArraysExFixacao\bin\Debug\net8.0\ArraysExFixacao.exe
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ArraysExFixacao\bin\Debug\net8.0\ArraysExFixacao.deps.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ArraysExFixacao\bin\Debug\net8.0\ArraysExFixacao.runtimeconfig.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ArraysExFixacao\bin\Debug\net8.0\ArraysExFixacao.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ArraysExFixacao\bin\Debug\net8.0\ArraysExFixacao.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ArraysExFixacao\obj\Debug\net8.0\ArraysExFixacao.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ArraysExFixacao\obj\Debug\net8.0\refint\ArraysExFixacao.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ArraysExFixacao\obj\Debug\net8.0\ArraysExFixacao.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ArraysExFixacao\obj\Debug\net8.0\ArraysExFixacao.genruntimeconfig.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ArraysExFixacao\obj\Debug\net8.0\ref\ArraysExFixacao.dll

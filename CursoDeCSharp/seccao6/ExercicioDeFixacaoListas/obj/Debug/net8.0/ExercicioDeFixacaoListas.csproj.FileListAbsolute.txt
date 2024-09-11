@@ -1,0 +1,14 @@
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ExercicioDeFixacaoListas\obj\Debug\net8.0\ExercicioDeFixacaoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ExercicioDeFixacaoListas\obj\Debug\net8.0\ExercicioDeFixacaoListas.AssemblyInfoInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ExercicioDeFixacaoListas\obj\Debug\net8.0\ExercicioDeFixacaoListas.AssemblyInfo.cs
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ExercicioDeFixacaoListas\obj\Debug\net8.0\ExercicioDeFixacaoListas.csproj.CoreCompileInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ExercicioDeFixacaoListas\bin\Debug\net8.0\ExercicioDeFixacaoListas.exe
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ExercicioDeFixacaoListas\bin\Debug\net8.0\ExercicioDeFixacaoListas.deps.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ExercicioDeFixacaoListas\bin\Debug\net8.0\ExercicioDeFixacaoListas.runtimeconfig.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ExercicioDeFixacaoListas\bin\Debug\net8.0\ExercicioDeFixacaoListas.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ExercicioDeFixacaoListas\bin\Debug\net8.0\ExercicioDeFixacaoListas.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ExercicioDeFixacaoListas\obj\Debug\net8.0\ExercicioDeFixacaoListas.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ExercicioDeFixacaoListas\obj\Debug\net8.0\refint\ExercicioDeFixacaoListas.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ExercicioDeFixacaoListas\obj\Debug\net8.0\ExercicioDeFixacaoListas.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ExercicioDeFixacaoListas\obj\Debug\net8.0\ExercicioDeFixacaoListas.genruntimeconfig.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ExercicioDeFixacaoListas\obj\Debug\net8.0\ref\ExercicioDeFixacaoListas.dll

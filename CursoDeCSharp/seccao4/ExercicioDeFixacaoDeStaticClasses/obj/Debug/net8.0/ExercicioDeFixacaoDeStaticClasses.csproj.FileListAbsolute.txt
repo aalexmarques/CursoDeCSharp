@@ -1,0 +1,14 @@
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\ExercicioDeFixacaoDeStaticClasses\bin\Debug\net8.0\ExercicioDeFixacaoDeStaticClasses.exe
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\ExercicioDeFixacaoDeStaticClasses\bin\Debug\net8.0\ExercicioDeFixacaoDeStaticClasses.deps.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\ExercicioDeFixacaoDeStaticClasses\bin\Debug\net8.0\ExercicioDeFixacaoDeStaticClasses.runtimeconfig.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\ExercicioDeFixacaoDeStaticClasses\bin\Debug\net8.0\ExercicioDeFixacaoDeStaticClasses.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\ExercicioDeFixacaoDeStaticClasses\bin\Debug\net8.0\ExercicioDeFixacaoDeStaticClasses.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\ExercicioDeFixacaoDeStaticClasses\obj\Debug\net8.0\ExercicioDeFixacaoDeStaticClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\ExercicioDeFixacaoDeStaticClasses\obj\Debug\net8.0\ExercicioDeFixacaoDeStaticClasses.AssemblyInfoInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\ExercicioDeFixacaoDeStaticClasses\obj\Debug\net8.0\ExercicioDeFixacaoDeStaticClasses.AssemblyInfo.cs
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\ExercicioDeFixacaoDeStaticClasses\obj\Debug\net8.0\ExercicioDeFixacaoDeStaticClasses.csproj.CoreCompileInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\ExercicioDeFixacaoDeStaticClasses\obj\Debug\net8.0\ExercicioDeFixacaoDeStaticClasses.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\ExercicioDeFixacaoDeStaticClasses\obj\Debug\net8.0\refint\ExercicioDeFixacaoDeStaticClasses.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\ExercicioDeFixacaoDeStaticClasses\obj\Debug\net8.0\ExercicioDeFixacaoDeStaticClasses.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\ExercicioDeFixacaoDeStaticClasses\obj\Debug\net8.0\ExercicioDeFixacaoDeStaticClasses.genruntimeconfig.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\ExercicioDeFixacaoDeStaticClasses\obj\Debug\net8.0\ref\ExercicioDeFixacaoDeStaticClasses.dll

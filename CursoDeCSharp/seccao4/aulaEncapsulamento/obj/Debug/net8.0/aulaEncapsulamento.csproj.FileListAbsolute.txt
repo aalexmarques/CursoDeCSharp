@@ -1,0 +1,14 @@
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaEncapsulamento\bin\Debug\net8.0\aulaEncapsulamento.exe
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaEncapsulamento\bin\Debug\net8.0\aulaEncapsulamento.deps.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaEncapsulamento\bin\Debug\net8.0\aulaEncapsulamento.runtimeconfig.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaEncapsulamento\bin\Debug\net8.0\aulaEncapsulamento.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaEncapsulamento\bin\Debug\net8.0\aulaEncapsulamento.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaEncapsulamento\obj\Debug\net8.0\aulaEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaEncapsulamento\obj\Debug\net8.0\aulaEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaEncapsulamento\obj\Debug\net8.0\aulaEncapsulamento.AssemblyInfo.cs
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaEncapsulamento\obj\Debug\net8.0\aulaEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaEncapsulamento\obj\Debug\net8.0\aulaEncapsulamento.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaEncapsulamento\obj\Debug\net8.0\refint\aulaEncapsulamento.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaEncapsulamento\obj\Debug\net8.0\aulaEncapsulamento.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaEncapsulamento\obj\Debug\net8.0\aulaEncapsulamento.genruntimeconfig.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaEncapsulamento\obj\Debug\net8.0\ref\aulaEncapsulamento.dll

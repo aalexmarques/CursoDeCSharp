@@ -1,0 +1,14 @@
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\StockDeProdutos\obj\Debug\net8.0\StockDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\StockDeProdutos\obj\Debug\net8.0\StockDeProdutos.AssemblyInfoInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\StockDeProdutos\obj\Debug\net8.0\StockDeProdutos.AssemblyInfo.cs
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\StockDeProdutos\obj\Debug\net8.0\StockDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\StockDeProdutos\bin\Debug\net8.0\StockDeProdutos.exe
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\StockDeProdutos\bin\Debug\net8.0\StockDeProdutos.deps.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\StockDeProdutos\bin\Debug\net8.0\StockDeProdutos.runtimeconfig.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\StockDeProdutos\bin\Debug\net8.0\StockDeProdutos.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\StockDeProdutos\bin\Debug\net8.0\StockDeProdutos.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\StockDeProdutos\obj\Debug\net8.0\StockDeProdutos.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\StockDeProdutos\obj\Debug\net8.0\refint\StockDeProdutos.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\StockDeProdutos\obj\Debug\net8.0\StockDeProdutos.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\StockDeProdutos\obj\Debug\net8.0\StockDeProdutos.genruntimeconfig.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\StockDeProdutos\obj\Debug\net8.0\ref\StockDeProdutos.dll

@@ -1,0 +1,14 @@
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\Exercicios\obj\Debug\net8.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\Exercicios\obj\Debug\net8.0\Exercicios.AssemblyInfoInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\Exercicios\obj\Debug\net8.0\Exercicios.AssemblyInfo.cs
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\Exercicios\obj\Debug\net8.0\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\Exercicios\bin\Debug\net8.0\Exercicios.exe
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\Exercicios\bin\Debug\net8.0\Exercicios.deps.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\Exercicios\bin\Debug\net8.0\Exercicios.runtimeconfig.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\Exercicios\bin\Debug\net8.0\Exercicios.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\Exercicios\bin\Debug\net8.0\Exercicios.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\Exercicios\obj\Debug\net8.0\Exercicios.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\Exercicios\obj\Debug\net8.0\refint\Exercicios.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\Exercicios\obj\Debug\net8.0\Exercicios.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\Exercicios\obj\Debug\net8.0\Exercicios.genruntimeconfig.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\Exercicios\obj\Debug\net8.0\ref\Exercicios.dll

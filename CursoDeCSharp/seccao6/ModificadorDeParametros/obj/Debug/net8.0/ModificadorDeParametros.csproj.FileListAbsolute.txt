@@ -1,0 +1,14 @@
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ModificadorDeParametros\bin\Debug\net8.0\ModificadorDeParametros.exe
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ModificadorDeParametros\bin\Debug\net8.0\ModificadorDeParametros.deps.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ModificadorDeParametros\bin\Debug\net8.0\ModificadorDeParametros.runtimeconfig.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ModificadorDeParametros\bin\Debug\net8.0\ModificadorDeParametros.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ModificadorDeParametros\bin\Debug\net8.0\ModificadorDeParametros.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ModificadorDeParametros\obj\Debug\net8.0\ModificadorDeParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ModificadorDeParametros\obj\Debug\net8.0\ModificadorDeParametros.AssemblyInfoInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ModificadorDeParametros\obj\Debug\net8.0\ModificadorDeParametros.AssemblyInfo.cs
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ModificadorDeParametros\obj\Debug\net8.0\ModificadorDeParametros.csproj.CoreCompileInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ModificadorDeParametros\obj\Debug\net8.0\ModificadorDeParametros.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ModificadorDeParametros\obj\Debug\net8.0\refint\ModificadorDeParametros.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ModificadorDeParametros\obj\Debug\net8.0\ModificadorDeParametros.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ModificadorDeParametros\obj\Debug\net8.0\ModificadorDeParametros.genruntimeconfig.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao6\ModificadorDeParametros\obj\Debug\net8.0\ref\ModificadorDeParametros.dll

@@ -1,0 +1,10 @@
+﻿using System;
+using System.Globalization;
+
+namespace ExercicioDeFixacao {
+    class Program{
+        static void Main(string[] args) {
+            
+        }
+    }
+}

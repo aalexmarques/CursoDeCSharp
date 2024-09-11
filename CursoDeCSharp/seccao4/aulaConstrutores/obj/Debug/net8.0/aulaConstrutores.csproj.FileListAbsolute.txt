@@ -1,0 +1,14 @@
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaConstrutores\obj\Debug\net8.0\aulaConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaConstrutores\obj\Debug\net8.0\aulaConstrutores.AssemblyInfoInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaConstrutores\obj\Debug\net8.0\aulaConstrutores.AssemblyInfo.cs
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaConstrutores\obj\Debug\net8.0\aulaConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaConstrutores\bin\Debug\net8.0\aulaConstrutores.exe
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaConstrutores\bin\Debug\net8.0\aulaConstrutores.deps.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaConstrutores\bin\Debug\net8.0\aulaConstrutores.runtimeconfig.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaConstrutores\bin\Debug\net8.0\aulaConstrutores.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaConstrutores\bin\Debug\net8.0\aulaConstrutores.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaConstrutores\obj\Debug\net8.0\aulaConstrutores.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaConstrutores\obj\Debug\net8.0\refint\aulaConstrutores.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaConstrutores\obj\Debug\net8.0\aulaConstrutores.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaConstrutores\obj\Debug\net8.0\aulaConstrutores.genruntimeconfig.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\aulaConstrutores\obj\Debug\net8.0\ref\aulaConstrutores.dll

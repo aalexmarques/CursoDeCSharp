@@ -1,0 +1,14 @@
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\metodosEmClasses\obj\Debug\net8.0\metodosEmClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\metodosEmClasses\obj\Debug\net8.0\metodosEmClasses.AssemblyInfoInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\metodosEmClasses\obj\Debug\net8.0\metodosEmClasses.AssemblyInfo.cs
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\metodosEmClasses\obj\Debug\net8.0\metodosEmClasses.csproj.CoreCompileInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\metodosEmClasses\bin\Debug\net8.0\metodosEmClasses.exe
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\metodosEmClasses\bin\Debug\net8.0\metodosEmClasses.deps.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\metodosEmClasses\bin\Debug\net8.0\metodosEmClasses.runtimeconfig.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\metodosEmClasses\bin\Debug\net8.0\metodosEmClasses.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\metodosEmClasses\bin\Debug\net8.0\metodosEmClasses.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\metodosEmClasses\obj\Debug\net8.0\metodosEmClasses.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\metodosEmClasses\obj\Debug\net8.0\refint\metodosEmClasses.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\metodosEmClasses\obj\Debug\net8.0\metodosEmClasses.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\metodosEmClasses\obj\Debug\net8.0\metodosEmClasses.genruntimeconfig.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao4\primeriosExerciciosDeClasses\metodosEmClasses\obj\Debug\net8.0\ref\metodosEmClasses.dll

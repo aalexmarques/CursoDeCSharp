@@ -1,0 +1,14 @@
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao7\TestingSection7\bin\Debug\net8.0\TestingSection7.exe
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao7\TestingSection7\bin\Debug\net8.0\TestingSection7.deps.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao7\TestingSection7\bin\Debug\net8.0\TestingSection7.runtimeconfig.json
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao7\TestingSection7\bin\Debug\net8.0\TestingSection7.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao7\TestingSection7\bin\Debug\net8.0\TestingSection7.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao7\TestingSection7\obj\Debug\net8.0\TestingSection7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao7\TestingSection7\obj\Debug\net8.0\TestingSection7.AssemblyInfoInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao7\TestingSection7\obj\Debug\net8.0\TestingSection7.AssemblyInfo.cs
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao7\TestingSection7\obj\Debug\net8.0\TestingSection7.csproj.CoreCompileInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao7\TestingSection7\obj\Debug\net8.0\TestingSection7.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao7\TestingSection7\obj\Debug\net8.0\refint\TestingSection7.dll
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao7\TestingSection7\obj\Debug\net8.0\TestingSection7.pdb
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao7\TestingSection7\obj\Debug\net8.0\TestingSection7.genruntimeconfig.cache
+C:\Users\aabfc\OneDrive\Desktop\Udemy\cursoDeCSharp\projetos\seccao7\TestingSection7\obj\Debug\net8.0\ref\TestingSection7.dll
