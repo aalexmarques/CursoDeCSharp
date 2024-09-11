@@ -1,0 +1,15 @@
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\EnumeracoesIntroducao\bin\Debug\net8.0\EnumeracoesIntroducao.exe
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\EnumeracoesIntroducao\bin\Debug\net8.0\EnumeracoesIntroducao.deps.json
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\EnumeracoesIntroducao\bin\Debug\net8.0\EnumeracoesIntroducao.runtimeconfig.json
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\EnumeracoesIntroducao\bin\Debug\net8.0\EnumeracoesIntroducao.dll
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\EnumeracoesIntroducao\bin\Debug\net8.0\EnumeracoesIntroducao.pdb
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\EnumeracoesIntroducao\obj\Debug\net8.0\EnumeracoesIntroducao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\EnumeracoesIntroducao\obj\Debug\net8.0\EnumeracoesIntroducao.AssemblyInfoInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\EnumeracoesIntroducao\obj\Debug\net8.0\EnumeracoesIntroducao.AssemblyInfo.cs
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\EnumeracoesIntroducao\obj\Debug\net8.0\EnumeracoesIntroducao.csproj.CoreCompileInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\EnumeracoesIntroducao\obj\Debug\net8.0\EnumeracoesIntroducao.sourcelink.json
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\EnumeracoesIntroducao\obj\Debug\net8.0\EnumeracoesIntroducao.dll
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\EnumeracoesIntroducao\obj\Debug\net8.0\refint\EnumeracoesIntroducao.dll
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\EnumeracoesIntroducao\obj\Debug\net8.0\EnumeracoesIntroducao.pdb
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\EnumeracoesIntroducao\obj\Debug\net8.0\EnumeracoesIntroducao.genruntimeconfig.cache
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\EnumeracoesIntroducao\obj\Debug\net8.0\ref\EnumeracoesIntroducao.dll

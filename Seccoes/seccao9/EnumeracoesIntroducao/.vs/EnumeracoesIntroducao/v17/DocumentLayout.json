@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\EnumeracoesIntroducao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF94BCAC-B494-4B67-8E94-CB6DFFCC4C65}|EnumeracoesIntroducao.csproj|c:\\users\\aabfc\\onedrive\\desktop\\cursodecsharp\\seccoes\\seccao9\\enumeracoesintroducao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF94BCAC-B494-4B67-8E94-CB6DFFCC4C65}|EnumeracoesIntroducao.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF94BCAC-B494-4B67-8E94-CB6DFFCC4C65}|EnumeracoesIntroducao.csproj|c:\\users\\aabfc\\onedrive\\desktop\\cursodecsharp\\seccoes\\seccao9\\enumeracoesintroducao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF94BCAC-B494-4B67-8E94-CB6DFFCC4C65}|EnumeracoesIntroducao.csproj|solutionrelative:entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF94BCAC-B494-4B67-8E94-CB6DFFCC4C65}|EnumeracoesIntroducao.csproj|c:\\users\\aabfc\\onedrive\\desktop\\cursodecsharp\\seccoes\\seccao9\\enumeracoesintroducao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF94BCAC-B494-4B67-8E94-CB6DFFCC4C65}|EnumeracoesIntroducao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\EnumeracoesIntroducao\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\EnumeracoesIntroducao\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:52:21.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\EnumeracoesIntroducao\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\EnumeracoesIntroducao\\Entities\\Order.cs",
+              "RelativeToolTip": "Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:49:38.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\EnumeracoesIntroducao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\EnumeracoesIntroducao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:46:16.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
