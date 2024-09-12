@@ -1,0 +1,15 @@
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExResolvido1\obj\Debug\net8.0\ExResolvido1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExResolvido1\obj\Debug\net8.0\ExResolvido1.AssemblyInfoInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExResolvido1\obj\Debug\net8.0\ExResolvido1.AssemblyInfo.cs
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExResolvido1\obj\Debug\net8.0\ExResolvido1.csproj.CoreCompileInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExResolvido1\obj\Debug\net8.0\ExResolvido1.sourcelink.json
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExResolvido1\bin\Debug\net8.0\ExResolvido1.exe
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExResolvido1\bin\Debug\net8.0\ExResolvido1.deps.json
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExResolvido1\bin\Debug\net8.0\ExResolvido1.runtimeconfig.json
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExResolvido1\bin\Debug\net8.0\ExResolvido1.dll
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExResolvido1\bin\Debug\net8.0\ExResolvido1.pdb
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExResolvido1\obj\Debug\net8.0\ExResolvido1.dll
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExResolvido1\obj\Debug\net8.0\refint\ExResolvido1.dll
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExResolvido1\obj\Debug\net8.0\ExResolvido1.pdb
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExResolvido1\obj\Debug\net8.0\ExResolvido1.genruntimeconfig.cache
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExResolvido1\obj\Debug\net8.0\ref\ExResolvido1.dll
