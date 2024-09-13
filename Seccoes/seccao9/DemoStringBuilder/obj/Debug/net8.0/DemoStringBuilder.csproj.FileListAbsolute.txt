@@ -1,0 +1,15 @@
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.AssemblyInfoInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.AssemblyInfo.cs
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.sourcelink.json
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\DemoStringBuilder\bin\Debug\net8.0\DemoStringBuilder.exe
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\DemoStringBuilder\bin\Debug\net8.0\DemoStringBuilder.deps.json
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\DemoStringBuilder\bin\Debug\net8.0\DemoStringBuilder.runtimeconfig.json
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\DemoStringBuilder\bin\Debug\net8.0\DemoStringBuilder.dll
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\DemoStringBuilder\bin\Debug\net8.0\DemoStringBuilder.pdb
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.dll
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\DemoStringBuilder\obj\Debug\net8.0\refint\DemoStringBuilder.dll
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.pdb
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.genruntimeconfig.cache
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\DemoStringBuilder\obj\Debug\net8.0\ref\DemoStringBuilder.dll

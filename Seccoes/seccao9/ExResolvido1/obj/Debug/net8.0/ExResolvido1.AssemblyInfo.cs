@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExResolvido1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c35cf91d825c02425d57bc7a9f251cc1af753409")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f15739f5ccc3315bb10b76c5689b4f276a07f3a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExResolvido1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExResolvido1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
