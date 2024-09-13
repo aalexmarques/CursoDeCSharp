@@ -1,0 +1,15 @@
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExercicioPropostoEnumsComposicao\obj\Debug\net8.0\ExercicioPropostoEnumsComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExercicioPropostoEnumsComposicao\obj\Debug\net8.0\ExercicioPropostoEnumsComposicao.AssemblyInfoInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExercicioPropostoEnumsComposicao\obj\Debug\net8.0\ExercicioPropostoEnumsComposicao.AssemblyInfo.cs
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExercicioPropostoEnumsComposicao\obj\Debug\net8.0\ExercicioPropostoEnumsComposicao.csproj.CoreCompileInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExercicioPropostoEnumsComposicao\obj\Debug\net8.0\ExercicioPropostoEnumsComposicao.sourcelink.json
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExercicioPropostoEnumsComposicao\bin\Debug\net8.0\ExercicioPropostoEnumsComposicao.exe
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExercicioPropostoEnumsComposicao\bin\Debug\net8.0\ExercicioPropostoEnumsComposicao.deps.json
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExercicioPropostoEnumsComposicao\bin\Debug\net8.0\ExercicioPropostoEnumsComposicao.runtimeconfig.json
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExercicioPropostoEnumsComposicao\bin\Debug\net8.0\ExercicioPropostoEnumsComposicao.dll
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExercicioPropostoEnumsComposicao\bin\Debug\net8.0\ExercicioPropostoEnumsComposicao.pdb
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExercicioPropostoEnumsComposicao\obj\Debug\net8.0\ExercicioPropostoEnumsComposicao.dll
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExercicioPropostoEnumsComposicao\obj\Debug\net8.0\refint\ExercicioPropostoEnumsComposicao.dll
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExercicioPropostoEnumsComposicao\obj\Debug\net8.0\ExercicioPropostoEnumsComposicao.pdb
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExercicioPropostoEnumsComposicao\obj\Debug\net8.0\ExercicioPropostoEnumsComposicao.genruntimeconfig.cache
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao9\ExercicioPropostoEnumsComposicao\obj\Debug\net8.0\ref\ExercicioPropostoEnumsComposicao.dll

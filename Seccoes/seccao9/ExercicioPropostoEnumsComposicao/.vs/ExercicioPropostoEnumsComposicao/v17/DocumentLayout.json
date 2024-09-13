@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\ExercicioPropostoEnumsComposicao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{626ABD01-7320-4B92-BB21-912A4EB802E8}|ExercicioPropostoEnumsComposicao.csproj|c:\\users\\aabfc\\onedrive\\desktop\\cursodecsharp\\seccoes\\seccao9\\exerciciopropostoenumscomposicao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626ABD01-7320-4B92-BB21-912A4EB802E8}|ExercicioPropostoEnumsComposicao.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626ABD01-7320-4B92-BB21-912A4EB802E8}|ExercicioPropostoEnumsComposicao.csproj|c:\\users\\aabfc\\onedrive\\desktop\\cursodecsharp\\seccoes\\seccao9\\exerciciopropostoenumscomposicao\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626ABD01-7320-4B92-BB21-912A4EB802E8}|ExercicioPropostoEnumsComposicao.csproj|solutionrelative:entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626ABD01-7320-4B92-BB21-912A4EB802E8}|ExercicioPropostoEnumsComposicao.csproj|c:\\users\\aabfc\\onedrive\\desktop\\cursodecsharp\\seccoes\\seccao9\\exerciciopropostoenumscomposicao\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626ABD01-7320-4B92-BB21-912A4EB802E8}|ExercicioPropostoEnumsComposicao.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626ABD01-7320-4B92-BB21-912A4EB802E8}|ExercicioPropostoEnumsComposicao.csproj|c:\\users\\aabfc\\onedrive\\desktop\\cursodecsharp\\seccoes\\seccao9\\exerciciopropostoenumscomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626ABD01-7320-4B92-BB21-912A4EB802E8}|ExercicioPropostoEnumsComposicao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626ABD01-7320-4B92-BB21-912A4EB802E8}|ExercicioPropostoEnumsComposicao.csproj|c:\\users\\aabfc\\onedrive\\desktop\\cursodecsharp\\seccoes\\seccao9\\exerciciopropostoenumscomposicao\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626ABD01-7320-4B92-BB21-912A4EB802E8}|ExercicioPropostoEnumsComposicao.csproj|solutionrelative:entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626ABD01-7320-4B92-BB21-912A4EB802E8}|ExercicioPropostoEnumsComposicao.csproj|c:\\users\\aabfc\\onedrive\\desktop\\cursodecsharp\\seccoes\\seccao9\\exerciciopropostoenumscomposicao\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626ABD01-7320-4B92-BB21-912A4EB802E8}|ExercicioPropostoEnumsComposicao.csproj|solutionrelative:entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\ExercicioPropostoEnumsComposicao\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\ExercicioPropostoEnumsComposicao\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:04:47.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\ExercicioPropostoEnumsComposicao\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\ExercicioPropostoEnumsComposicao\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:01:34.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\ExercicioPropostoEnumsComposicao\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\ExercicioPropostoEnumsComposicao\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:01:29.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\ExercicioPropostoEnumsComposicao\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\ExercicioPropostoEnumsComposicao\\Entities\\Client.cs",
+              "RelativeToolTip": "Entities\\Client.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:01:21.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\ExercicioPropostoEnumsComposicao\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\ExercicioPropostoEnumsComposicao\\Entities\\Order.cs",
+              "RelativeToolTip": "Entities\\Order.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:01:17.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\ExercicioPropostoEnumsComposicao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao9\\ExercicioPropostoEnumsComposicao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:23:32.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
