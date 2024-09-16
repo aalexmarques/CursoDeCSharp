@@ -1,0 +1,15 @@
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao10\HerancasDemo\bin\Debug\net8.0\HerancasDemo.exe
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao10\HerancasDemo\bin\Debug\net8.0\HerancasDemo.deps.json
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao10\HerancasDemo\bin\Debug\net8.0\HerancasDemo.runtimeconfig.json
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao10\HerancasDemo\bin\Debug\net8.0\HerancasDemo.dll
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao10\HerancasDemo\bin\Debug\net8.0\HerancasDemo.pdb
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao10\HerancasDemo\obj\Debug\net8.0\HerancasDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao10\HerancasDemo\obj\Debug\net8.0\HerancasDemo.AssemblyInfoInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao10\HerancasDemo\obj\Debug\net8.0\HerancasDemo.AssemblyInfo.cs
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao10\HerancasDemo\obj\Debug\net8.0\HerancasDemo.csproj.CoreCompileInputs.cache
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao10\HerancasDemo\obj\Debug\net8.0\HerancasDemo.sourcelink.json
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao10\HerancasDemo\obj\Debug\net8.0\HerancasDemo.dll
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao10\HerancasDemo\obj\Debug\net8.0\refint\HerancasDemo.dll
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao10\HerancasDemo\obj\Debug\net8.0\HerancasDemo.pdb
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao10\HerancasDemo\obj\Debug\net8.0\HerancasDemo.genruntimeconfig.cache
+C:\Users\aabfc\OneDrive\Desktop\CursoDeCSharp\Seccoes\seccao10\HerancasDemo\obj\Debug\net8.0\ref\HerancasDemo.dll

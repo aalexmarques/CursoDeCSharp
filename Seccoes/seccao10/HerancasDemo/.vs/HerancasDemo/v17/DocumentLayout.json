@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao10\\HerancasDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E06DEF-B967-447A-85ED-38140F198DB3}|HerancasDemo.csproj|c:\\users\\aabfc\\onedrive\\desktop\\cursodecsharp\\seccoes\\seccao10\\herancasdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E06DEF-B967-447A-85ED-38140F198DB3}|HerancasDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E06DEF-B967-447A-85ED-38140F198DB3}|HerancasDemo.csproj|c:\\users\\aabfc\\onedrive\\desktop\\cursodecsharp\\seccoes\\seccao10\\herancasdemo\\herancasdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C0E06DEF-B967-447A-85ED-38140F198DB3}|HerancasDemo.csproj|solutionrelative:herancasdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E06DEF-B967-447A-85ED-38140F198DB3}|HerancasDemo.csproj|c:\\users\\aabfc\\onedrive\\desktop\\cursodecsharp\\seccoes\\seccao10\\herancasdemo\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E06DEF-B967-447A-85ED-38140F198DB3}|HerancasDemo.csproj|solutionrelative:entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E06DEF-B967-447A-85ED-38140F198DB3}|HerancasDemo.csproj|c:\\users\\aabfc\\onedrive\\desktop\\cursodecsharp\\seccoes\\seccao10\\herancasdemo\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E06DEF-B967-447A-85ED-38140F198DB3}|HerancasDemo.csproj|solutionrelative:entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao10\\HerancasDemo\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao10\\HerancasDemo\\Entities\\Account.cs",
+              "RelativeToolTip": "Entities\\Account.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:04:56.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HerancasDemo",
+              "DocumentMoniker": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao10\\HerancasDemo\\HerancasDemo.csproj",
+              "RelativeDocumentMoniker": "HerancasDemo.csproj",
+              "ToolTip": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao10\\HerancasDemo\\HerancasDemo.csproj",
+              "RelativeToolTip": "HerancasDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T18:04:56.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao10\\HerancasDemo\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao10\\HerancasDemo\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "Entities\\BusinessAccount.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:04:54.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao10\\HerancasDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aabfc\\OneDrive\\Desktop\\CursoDeCSharp\\Seccoes\\seccao10\\HerancasDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T20:08:09.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
